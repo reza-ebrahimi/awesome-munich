@@ -46,7 +46,7 @@
 # Job Opennings
 
 - [celonis | Process Mining and Execution Management](https://www.celonis.com/careers/jobs/locations/munich-germany/)
-- [CHECK24 | Comparison Platform](https://jobs.check24.de/)
+- [CHECK24 | Comparison Platform](https://jobs.check24.de/search?search=&ln%5B%5D=28&initial=true#searchresult)
 - [Capgemini | IT Services and Consulting](https://www.capgemini.com/careers/job-search/)
 - [sqanit | Cloud-Based Service Management System](https://www.sqanit.com/careers.php)
 - [CGI | IT and Business Consulting Services](https://cgi.njoyn.com/CGI/xweb/Xweb.asp?page=joblisting&CLID=21001)
