@@ -9,6 +9,7 @@
 - [Insurances](#insurances)
 - [Medical | Platforms](#medical_platforms)
 - [Medical | Corona Tests and Vaccination](#medical_tests_vaccination)
+- [Medical | Doctors and Clinics](#medical_drs_clinics)
 - [Events](#events)
 - [Education](#education)
 - [Accomodation](#accomodation)
@@ -55,13 +56,13 @@
 - [Rechtsschutz beim Testsieger | Legal Protection Insurance](https://www.check24.de/rechtsschutzversicherung/)
 - [Deutsche Rentenversicherung | Pension Insurance](https://www.deutsche-rentenversicherung.de/DRV/DE/Home/home_node.html)
 
-# <a name="medical_platforms"></a>Medical | Platforms
+# <a name="medical_platforms" />Medical | Platforms
 
 - [Doctolib | Doctor's online appointment booking and consulation platform](https://www.doctolib.de/)
 - [DrAnsay | Sick Leave with Online Doctors](https://www.dransay.com/)
 - [myCARE eK - Online and Mail order pharmacy](https://www.mycare.de/)
 
-# <a name="medical_tests_vaccination"> Medical | Corona Tests and Vaccination
+# <a name="medical_tests_vaccination" />Medical | Corona Tests and Vaccination
 
 - [Corona rapid test | Result after approx. 15 minutes](https://corona-test-schwabing.de/de/)
 - [Corona PCR Test - Munich](https://www.corona-teststelle.de/)
@@ -69,7 +70,7 @@
 - [Antigen Rapid Test Center | TEST-CENTER StudiTUM | Garching, München](https://schnelltest-studitum.de/)
 - [Corona Vaccination (Impfregistrierung) | Corona Vaccination Appointment](https://impfzentren.bayern/index_en.html)
 
-# Medical | Doctors and Clinics
+# <a name="medical_drs_clinics" />Medical | Doctors and Clinics
 
 - [Dr. Nahal | Dentist](http://www.zahnarztpraxis-dr-nahal.de/)
 - [Dr. med. Walter Baumann | Optometrist](https://www.google.com/maps/place/Dr.+med.+Walter+Baumann/@48.1364522,11.5727705,17z/data=!3m1!4b1!4m5!3m4!1s0x479e758acc522907:0x4546459d06803c53!8m2!3d48.1364522!4d11.5749592?hl=en-DE)
