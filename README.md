@@ -31,7 +31,9 @@
   - [Menu](https://karekodrestaurantmenu.com/menu/13316)
   - [Google Map](https://www.google.com/maps/place/Mama's+K%C3%BCche/@48.1364155,11.5678871,17z/data=!3m1!4b1!4m5!3m4!1s0x479e75f595f30941:0xd977898bab35f9b8!8m2!3d48.1364456!4d11.5701037)
 - [Bäckerei Mihan](https://www.google.com/maps?q=B%C3%A4ckerei+Mihan+-+%D9%86%D8%A7%D9%86%D9%88%D8%A7%DB%8C%DB%8C+%D9%85%DB%8C%D9%87%D9%86,+Schwanthalerstra%C3%9Fe+21,+80336+M%C3%BCnchen&ftid=0x479e75b2c37e9153:0x1578c3089f16bad5&hl=en-DE&gl=de&entry=gps&lucs=s2se&shorturl=1)
-- [Zamzam Supermarket](https://www.google.com/maps/place/Zamzam/@48.1634903,11.6267871,16.75z/data=!4m5!3m4!1s0x0:0x4c8031eabe9f51e5!8m2!3d48.163511!4d11.6286912)
+- Zamzam Supermarket
+  - [Website](https://zamzam-supermarket.business.site/)
+  - [Google Map](https://www.google.com/maps/place/Zamzam/@48.1634903,11.6267871,16.75z/data=!4m5!3m4!1s0x0:0x4c8031eabe9f51e5!8m2!3d48.163511!4d11.6286912)
 - [Taste my Burger](http://www.tastemyburger.com/)
   - [Menu](http://tastemyburger.com/menu)
   - [Google Map](https://www.google.com/maps/place/Taste+my+Burger/@48.1535743,11.5582648,17z/data=!3m1!4b1!4m5!3m4!1s0x479e75fb25d4ad8f:0xeab13da812b3e1e2!8m2!3d48.1535454!4d11.5607401)
