@@ -94,6 +94,7 @@
 - [Motiv-Chor | Musik und Kultur](http://chormotiv.de/)
 - [München Ticket](https://www.muenchenticket.de/)
 - [Persepolis Travel e.K. München](https://persepolis-travel.de/)
+- [Khane Iran e.V. (München)](https://www.khane-iran.de/)
 
 # Education
 
