@@ -7,7 +7,8 @@
 - [Hair Salon](#hair-salon)
 - [Job Opennings](#job-opennings)
 - [Insurances](#insurances)
-- [Medical](#medical)
+- [Medical | Platforms](#medical_platforms)
+- [Medical | Corona Tests and Vaccination](#medical_tests_vaccination)
 - [Events](#events)
 - [Education](#education)
 - [Accomodation](#accomodation)
@@ -54,13 +55,13 @@
 - [Rechtsschutz beim Testsieger | Legal Protection Insurance](https://www.check24.de/rechtsschutzversicherung/)
 - [Deutsche Rentenversicherung | Pension Insurance](https://www.deutsche-rentenversicherung.de/DRV/DE/Home/home_node.html)
 
-# Medical | Platforms
+# <a name="medical_platforms"></a>Medical | Platforms
 
 - [Doctolib | Doctor's online appointment booking and consulation platform](https://www.doctolib.de/)
 - [DrAnsay | Sick Leave with Online Doctors](https://www.dransay.com/)
 - [myCARE eK - Online and Mail order pharmacy](https://www.mycare.de/)
 
-# Medical | Corona Tests and Vaccination
+# <a name="medical_tests_vaccination"> Medical | Corona Tests and Vaccination
 
 - [Corona rapid test | Result after approx. 15 minutes](https://corona-test-schwabing.de/de/)
 - [Corona PCR Test - Munich](https://www.corona-teststelle.de/)
