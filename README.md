@@ -13,6 +13,7 @@
 - [Events](#events)
 - [Education](#education)
 - [Accomodation](#accomodation)
+- [Facebook Groups](#facebook-groups)
 
 # General
 
@@ -59,6 +60,7 @@
 
 - [Techniker Krankenkasse (TK) | The largest health insurance fund in Germany](https://www.tk.de/en)
 - [Techniker Krankenkasse (TK) | What does TK pay for dentures?](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/informationen-versicherte/leistungen/zaehne/zahnersatz/zuschuss-zahnersatz-2002872)
+- [Techniker Krankenkasse (TK) | Glasses and contact lenses](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/informationen-versicherte/leistungen/weitere-leistungen/hilfsmittel/brille-und-kontaktlinsen-2001122)
 - [Rechtsschutz beim Testsieger | Legal Protection Insurance](https://www.check24.de/rechtsschutzversicherung/)
 - [Deutsche Rentenversicherung | Pension Insurance](https://www.deutsche-rentenversicherung.de/DRV/DE/Home/home_node.html)
 - [DFV Deutsche Familienversicherung](https://www.deutsche-familienversicherung.de/)
@@ -100,3 +102,19 @@
 
 - [myroom24 | Monthly Rent | Hotel Apartment](https://myroom24.com/)
 - [Living Hotels | MÜNCHEN](https://www.living-hotels.com/hotels/muenchen/)
+-
+
+# Facebook Groups
+
+- [International Friends Munich](https://www.facebook.com/groups/816678275049303/)
+- [Munich - International Friends Accommodation](https://www.facebook.com/groups/963538057098732/)
+- [Munich - International Friends](https://www.facebook.com/groups/munich.international.friends/)
+- [Residents of Sauerbruch](https://www.facebook.com/groups/172849533186244/)
+- [RESIDENTS of Heiglhof and Sauerbruch](https://www.facebook.com/groups/1601612376728319/)
+- [Studentenwohnheim Felsennelkenanger](https://www.facebook.com/groups/66357961936)
+- [Studentenstadt Munich](https://www.facebook.com/groups/35617479561/)
+- [Wohnanlage Chiemgaustraße Freie Zimmer / free rooms](https://www.facebook.com/groups/1487312351548133/)
+- [Oranges Haus, StuSta](https://www.facebook.com/groups/342896365735190/)
+- [Miet-Börse Olydorf](https://www.facebook.com/groups/223808521041450)
+- [Munich Students Accommodation Group](https://www.facebook.com/groups/1138900076138930/)
+- [Munich Housing, Rooms, Apartments, Sublets](https://www.facebook.com/groups/163739354329120/)
