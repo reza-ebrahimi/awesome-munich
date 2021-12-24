@@ -49,7 +49,46 @@ Location: Worldwide
 
 Link: https://www.capgemini.com/careers/job-search/
 
+### sqanit
 
+Industry:  Cloud-Based Service Management System
+
+Location: Munich
+
+Link: https://www.sqanit.com/careers.php
+
+### CGI
+
+Industry: IT and Business Consulting Services 
+
+Location: Worldwide
+
+Link: https://cgi.njoyn.com/CGI/xweb/Xweb.asp?page=joblisting&CLID=21001
+
+### ProSiebenSat.1 Media SE
+
+Industry: Media
+
+Location: Germany
+
+Link: https://jobs.prosiebensat1.com/?currentPage=1&pageSize=15&orderBy=datePosted&isDesc=true
+
+
+### KONUX 
+
+Industry: Software-as-a-Service Solutions for Operation, Monitoring, and Maintenance Process Automation
+
+Location: Munich
+
+Link: https://www.konux.com/career/
+
+# Insurances
+
+## Legal Protection Insurance
+
+### Rechtsschutz beim Testsieger
+
+Link: https://www.check24.de/rechtsschutzversicherung/
 
 
 
