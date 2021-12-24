@@ -57,8 +57,11 @@
 
 # Insurances
 
+- [Techniker Krankenkasse (TK) | The largest health insurance fund in Germany](https://www.tk.de/en)
+- [Techniker Krankenkasse (TK) | What does TK pay for dentures?](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/informationen-versicherte/leistungen/zaehne/zahnersatz/zuschuss-zahnersatz-2002872)
 - [Rechtsschutz beim Testsieger | Legal Protection Insurance](https://www.check24.de/rechtsschutzversicherung/)
 - [Deutsche Rentenversicherung | Pension Insurance](https://www.deutsche-rentenversicherung.de/DRV/DE/Home/home_node.html)
+- [DFV Deutsche Familienversicherung](https://www.deutsche-familienversicherung.de/)
 
 # <a name="medical_platforms" />Medical | Platforms
 
