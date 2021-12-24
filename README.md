@@ -14,17 +14,35 @@ Notes: The official city portal for Munich
 
 Link: https://www.muenchen.de/
 
+### Kreisverwaltungsreferat (KVR)
+
+Notes: District administration department
+
+Link: https://stadt.muenchen.de/rathaus/verwaltung/kreisverwaltungsreferat.html
+
 ### Munich Corona Information Portal
 
 Notes: Munich Corona Information Portal
 
 Link: https://stadt.muenchen.de/infos/corona-infoportal-muenchen.html
 
+### Kreisverwaltungsreferat (KVR) | Fahrzeugzulassungs- und Fahrerlaubnisbehörde
+
+Notes: Apply for a transfer of a foreign driver's license
+
+Link: https://stadt.muenchen.de/service/info/hauptabteilung-ii-fahrzeugzulassungs-und-fahrerlaubnisbehoerde/1071898/
+
+### Federal Office for Migration and Refugees (BAMF)
+
+Notes: Brochure, Welcome to Germany
+
+Link: https://www.bamf.de/SharedDocs/Anlagen/EN/Integration/WillkommenDeutschland/willkommen-in-deutschland.html?nn=282388
+
 # Foods :yum:
 
 ### Mama's Küche
 
-Type: Turkish Food Resturant
+Notes: Turkish Food Resturant
 
 Menu: https://karekodrestaurantmenu.com/menu/13316
 
@@ -32,14 +50,17 @@ Address: Hotterstraße 16, 80331 München | [Google Map](https://www.google.com/
 
 ### Bäckerei Mihan
 
-Notes: 
+Notes: Bäckerei
 
-Address: Schwanthalerstraße 21, 80336 München
+Address: Schwanthalerstraße 21, 80336 München | [Google Map](https://www.google.com/maps?q=B%C3%A4ckerei+Mihan+-+%D9%86%D8%A7%D9%86%D9%88%D8%A7%DB%8C%DB%8C+%D9%85%DB%8C%D9%87%D9%86,+Schwanthalerstra%C3%9Fe+21,+80336+M%C3%BCnchen&ftid=0x479e75b2c37e9153:0x1578c3089f16bad5&hl=en-DE&gl=de&entry=gps&lucs=s2se&shorturl=1)
 
 Phone: 0176 60177044
 
-[Google Map](https://www.google.com/maps?q=B%C3%A4ckerei+Mihan+-+%D9%86%D8%A7%D9%86%D9%88%D8%A7%DB%8C%DB%8C+%D9%85%DB%8C%D9%87%D9%86,+Schwanthalerstra%C3%9Fe+21,+80336+M%C3%BCnchen&ftid=0x479e75b2c37e9153:0x1578c3089f16bad5&hl=en-DE&gl=de&entry=gps&lucs=s2se&shorturl=1)
+### Zamzam Supermarket
 
+Address: Cosimastraße 117, 81925 München | [Google Map](https://www.google.com/maps/place/Zamzam/@48.1634903,11.6267871,16.75z/data=!4m5!3m4!1s0x0:0x4c8031eabe9f51e5!8m2!3d48.163511!4d11.6286912)
+
+Phone: 08993083857
 
 # Hair Salon
 
@@ -128,6 +149,12 @@ Notes: Legal Protection Insurance
 
 Link: https://www.check24.de/rechtsschutzversicherung/
 
+### Deutsche Rentenversicherung 
+
+Notes: Pension Insurance
+
+Link: https://www.deutsche-rentenversicherung.de/DRV/DE/Home/home_node.html
+
 # Medical
 
 ### Doctolib
@@ -154,6 +181,12 @@ Location: Munich
 
 Link: https://www.corona-teststelle.de/
 
+### Corona Tests Center
+
+Location: Gasteig, München
+
+Link: https://covidzentrum.de/corona-test-gasteig-muenchen/
+
 
 ### Corona Vaccination (Impfregistrierung)
 
@@ -166,6 +199,26 @@ Link: https://impfzentren.bayern/index_en.html
 Notes: Dentist
 
 Link: http://www.zahnarztpraxis-dr-nahal.de/
+
+### Dr. med. Walter Baumann
+
+Notes: Optometrist
+
+Link: [Google Map](https://www.google.com/maps/place/Dr.+med.+Walter+Baumann/@48.1364522,11.5727705,17z/data=!3m1!4b1!4m5!3m4!1s0x479e758acc522907:0x4546459d06803c53!8m2!3d48.1364522!4d11.5749592?hl=en-DE)
+
+### Prof. Dr. med. Andreas Leunig
+
+Notes: ENT (Ear nose and throat) specialist
+
+Phone: 089 92774550
+
+Link: https://t.me/c/1130728826/56634
+
+### Dr. med. univ. Peter Flora
+
+Notes: ENT (Ear nose and throat) specialist
+
+Link: https://www.hno-flora.de/
 
 # Events
 
