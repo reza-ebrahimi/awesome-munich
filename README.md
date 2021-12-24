@@ -38,6 +38,14 @@ Notes: Brochure, Welcome to Germany
 
 Link: https://www.bamf.de/SharedDocs/Anlagen/EN/Integration/WillkommenDeutschland/willkommen-in-deutschland.html?nn=282388
 
+### COVID-19 vaccination - Bavarian State Ministry for Health and Care
+
+Link: https://www.stmgp.bayern.de/coronavirus/impfung/#bayerische-impfzentren
+
+### Kreisverwaltungsreferat (KVR) | Residence Registration
+
+Link: https://stadt.muenchen.de/infos/residence-registration
+
 # Foods :yum:
 
 ### Mama's Küche
@@ -61,6 +69,16 @@ Phone: 0176 60177044
 Address: Cosimastraße 117, 81925 München | [Google Map](https://www.google.com/maps/place/Zamzam/@48.1634903,11.6267871,16.75z/data=!4m5!3m4!1s0x0:0x4c8031eabe9f51e5!8m2!3d48.163511!4d11.6286912)
 
 Phone: 08993083857
+
+### Taste my Burger
+
+Menu: http://tastemyburger.com/menu
+
+Address: Heßstraße 90, 80797 München | [Google Map](https://www.google.com/maps/place/Taste+my+Burger/@48.1535743,11.5582648,17z/data=!3m1!4b1!4m5!3m4!1s0x479e75fb25d4ad8f:0xeab13da812b3e1e2!8m2!3d48.1535454!4d11.5607401)
+
+Phone: +498954328827
+
+Link:http://www.tastemyburger.com/
 
 # Hair Salon
 
@@ -188,6 +206,13 @@ Location: Gasteig, München
 Link: https://covidzentrum.de/corona-test-gasteig-muenchen/
 
 
+### Antigen Rapid Test Center - TEST-CENTER StudiTUM
+
+Location: Garching, München
+
+Link: https://schnelltest-studitum.de/
+
+
 ### Corona Vaccination (Impfregistrierung)
 
 Notes: Corona Vaccination Appointment
@@ -220,6 +245,16 @@ Notes: ENT (Ear nose and throat) specialist
 
 Link: https://www.hno-flora.de/
 
+### MVZ im Helios - Orthopädie München
+
+Notes: Orthopedic surgery clinic
+
+Link: https://www.mvz-im-helios.de/
+
+### myCARE eK - Online and Mail order pharmacy
+
+Link: https://www.mycare.de/
+
 # Events
 
 ### Bustan Club
@@ -229,3 +264,39 @@ Location: Munich
 Notes: Iranian Event Portal
 
 Link: https://www.bustanclub.de/
+
+### Motiv-Chor | Musik und Kultur
+
+Location: Guardinistraße 90, 81375 München, Germany
+
+Link: http://chormotiv.de/
+
+### München Ticket
+
+Link: https://www.muenchenticket.de/
+
+### Persepolis Travel e.K. München
+
+Link: https://persepolis-travel.de/
+
+# Education
+
+### Sprachschule in München
+
+Notes: German Language School
+
+Link: https://www.speakeasy-munich.de/
+
+# Accomodation
+
+### myroom24
+
+Notes: Monthly Rent (hotel apartment)
+
+Link: https://myroom24.com/
+
+### Living Hotels
+
+Notes: LIVING HOTEL - MÜNCHEN
+
+Link: https://www.living-hotels.com/hotels/muenchen/
