@@ -3,7 +3,7 @@
 # Contents
 
 - [General](#general)
-- [Foods](#foods)
+- [Foods](#foods-yum)
 - [Hair Salon](#hair-salon)
 - [Job Opennings](#job-opennings)
 - [Insurances](#insurances)
