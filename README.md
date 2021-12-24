@@ -104,7 +104,6 @@
 
 - [myroom24 | Monthly Rent | Hotel Apartment](https://myroom24.com/)
 - [Living Hotels | MÜNCHEN](https://www.living-hotels.com/hotels/muenchen/)
--
 
 # Facebook Groups
 
