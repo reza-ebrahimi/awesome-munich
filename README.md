@@ -1,4 +1,24 @@
-# Munich Resources
+# Awesome Munich Resources
+
+# General
+
+### Citizen service portal
+
+Notes: Online citizen services with the new identity card
+
+Link: https://www.buergerserviceportal.de/bayern/classic/
+
+### Munchen.de
+
+Notes: The official city portal for Munich
+
+Link: https://www.muenchen.de/
+
+### Munich Corona Information Portal
+
+Notes: Munich Corona Information Portal
+
+Link: https://stadt.muenchen.de/infos/corona-infoportal-muenchen.html
 
 # Resturants (Food :yum:)
 
@@ -84,11 +104,42 @@ Link: https://www.konux.com/career/
 
 # Insurances
 
-## Legal Protection Insurance
-
 ### Rechtsschutz beim Testsieger
+
+Notes: Legal Protection Insurance
 
 Link: https://www.check24.de/rechtsschutzversicherung/
 
+# Medical
+
+### Doctolib
+
+Notes: Doctor's online appointment booking and consulation platform
+
+Link: https://www.doctolib.de/
+
+### DrAnsay
+
+Notes: Sick Leave with Online Doctors
+
+Link: https://www.dransay.com/
+
+### Corona rapid test
+
+Notes: Result after approx. 15 minutes
+
+Link: https://corona-test-schwabing.de/de/
+
+### Corona Vaccination (Impfregistrierung)
+
+Notes: Corona Vaccination Appointment
+
+Link: https://impfzentren.bayern/index_en.html
+
+### Dr. Nahal
+
+Notes: Dentist
+
+Link: http://www.zahnarztpraxis-dr-nahal.de/
 
 
