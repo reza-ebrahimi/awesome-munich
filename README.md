@@ -1,5 +1,17 @@
 # Awesome Munich Resources
 
+# Contents
+
+- [General](#general)
+- [Foods](#foods)
+- [Hair Salon](#hair-salon)
+- [Job Opennings](#job-opennings)
+- [Insurances](#insurances)
+- [Medical](#medical)
+- [Events](#events)
+- [Education](#education)
+- [Accomodation](#accomodation)
+
 # General
 
 ### Citizen service portal
