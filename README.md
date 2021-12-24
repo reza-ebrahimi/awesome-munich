@@ -20,8 +20,8 @@
 - [Munchen.de | The official city portal for Munich](https://www.muenchen.de/)
 - [Munchen.de | Corona Information Portal](https://stadt.muenchen.de/infos/corona-infoportal-muenchen.html)
 - [Kreisverwaltungsreferat (KVR) | District administration department](https://stadt.muenchen.de/rathaus/verwaltung/kreisverwaltungsreferat.html)
-- [Kreisverwaltungsreferat (KVR) | Fahrzeugzulassungs- und Fahrerlaubnisbehörde | Apply for a transfer of a foreign driver's license](https://stadt.muenchen.de/service/info/hauptabteilung-ii-fahrzeugzulassungs-und-fahrerlaubnisbehoerde/1071898/)
 - [Kreisverwaltungsreferat (KVR) | Residence Registration](https://stadt.muenchen.de/infos/residence-registration)
+- [Kreisverwaltungsreferat (KVR) | Fahrzeugzulassungs- und Fahrerlaubnisbehörde | Apply for a transfer of a foreign driver's license](https://stadt.muenchen.de/service/info/hauptabteilung-ii-fahrzeugzulassungs-und-fahrerlaubnisbehoerde/1071898/)
 - [Federal Office for Migration and Refugees (BAMF) | Brochure, Welcome to Germany](https://www.bamf.de/SharedDocs/Anlagen/EN/Integration/WillkommenDeutschland/willkommen-in-deutschland.html?nn=282388)
 - [COVID-19 vaccination - Bavarian State Ministry for Health and Care](https://www.stmgp.bayern.de/coronavirus/impfung/#bayerische-impfzentren)
 
