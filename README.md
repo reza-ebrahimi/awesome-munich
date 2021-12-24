@@ -26,6 +26,9 @@
 - [Federal Office for Migration and Refugees (BAMF) | Brochure, Welcome to Germany](https://www.bamf.de/SharedDocs/Anlagen/EN/Integration/WillkommenDeutschland/willkommen-in-deutschland.html?nn=282388)
 - [COVID-19 vaccination - Bavarian State Ministry for Health and Care](https://www.stmgp.bayern.de/coronavirus/impfung/#bayerische-impfzentren)
 - [Munich Student Union](https://www.studentenwerk-muenchen.de/)
+- [MVV | IsarCardJob](https://www.mvv-muenchen.de/tickets/zeitkarten-abos/isarcardjob/index.html)
+- [MVV | MVV Ticketshop](https://ticketshop.mvv-muenchen.de/index.php/tickets)
+- [MVV | MVV semester ticket](https://www.mvv-muenchen.de/tickets/zeitkarten-abos/mvv-semesterticket/index.html)
 
 # Foods :yum:
 
@@ -65,6 +68,8 @@
 - [Rechtsschutz beim Testsieger | Legal Protection Insurance](https://www.check24.de/rechtsschutzversicherung/)
 - [Deutsche Rentenversicherung | Pension Insurance](https://www.deutsche-rentenversicherung.de/DRV/DE/Home/home_node.html)
 - [DFV Deutsche Familienversicherung](https://www.deutsche-familienversicherung.de/)
+- [NUREMBERGER Insurance](https://www.nuernberger.de/)
+- [Getsafe Insurance](https://www.hellogetsafe.com/en-de)
 
 # <a name="medical_platforms" />Medical | Platforms
 
@@ -87,6 +92,7 @@
 - [Prof. Dr. med. Andreas Leunig | ENT (Ear nose and throat) specialist](https://www.google.com/maps?q=Prof.+Dr.+med.+Andreas+Leunig,+3+Stock,+Platzl+3,+80331+M%C3%BCnchen&ftid=0x479e758bbfb3bcc5:0xcb99112759ad026f&hl=en-DE&gl=de&entry=gps&lucs=s2se&shorturl=1)
 - [Dr. med. univ. Peter Flora | ENT (Ear nose and throat) specialist](https://www.hno-flora.de/)
 - [MVZ im Helios - Orthopädie München | Orthopedic Surgery Clinic](https://www.mvz-im-helios.de/)
+- [GENERAL MEDICINE JOSEPHSBURG | Family doctor care](https://allgemeinmedizin-josephsburg.de/)
 
 # Events
 
@@ -104,6 +110,7 @@
 
 - [myroom24 | Monthly Rent | Hotel Apartment](https://myroom24.com/)
 - [Living Hotels | MÜNCHEN](https://www.living-hotels.com/hotels/muenchen/)
+- [Ernstl | Apartments for Students and Trainees](https://www.ernstl-muenchen.de/)
 
 # Facebook Groups
 
