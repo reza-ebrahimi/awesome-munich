@@ -25,6 +25,7 @@
 - [Kreisverwaltungsreferat (KVR) | Fahrzeugzulassungs- und Fahrerlaubnisbehörde | Apply for a transfer of a foreign driver's license](https://stadt.muenchen.de/service/info/hauptabteilung-ii-fahrzeugzulassungs-und-fahrerlaubnisbehoerde/1071898/)
 - [Federal Office for Migration and Refugees (BAMF) | Brochure, Welcome to Germany](https://www.bamf.de/SharedDocs/Anlagen/EN/Integration/WillkommenDeutschland/willkommen-in-deutschland.html?nn=282388)
 - [COVID-19 vaccination - Bavarian State Ministry for Health and Care](https://www.stmgp.bayern.de/coronavirus/impfung/#bayerische-impfzentren)
+- [Munich Student Union](https://www.studentenwerk-muenchen.de/)
 
 # Foods :yum:
 
