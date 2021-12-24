@@ -38,7 +38,9 @@
 
 # Hair Salon
 
-- [Friseur La-Le | Iranian Barber](https://www.google.com/maps/place/Friseur+La-Le/@48.1392676,11.5316865,17z/data=!3m1!4b1!4m5!3m4!1s0x479e761d64c9abf9:0x8aa89748b1415c2f!8m2!3d48.1393455!4d11.5338932)
+- Friseur La-Le | Iranian Barber
+  - [Website](https://la-le.de/)
+  - [Google Map](https://www.google.com/maps/place/Friseur+La-Le/@48.1392676,11.5316865,17z/data=!3m1!4b1!4m5!3m4!1s0x479e761d64c9abf9:0x8aa89748b1415c2f!8m2!3d48.1393455!4d11.5338932)
 - [Habibi Professional](https://habibi-professional.mytreatwell.de/)
 
 # Job Opennings
