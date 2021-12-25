@@ -4,7 +4,7 @@
 
 - [General](#general)
 - [Foods 😋](#foods-yum)
-- [Hair Salon](#hair-salon)
+- [Hair Salon and Tailoring](#hair-salon-and-tailoring)
 - [Job Opennings](#job-opennings)
 - [Insurances](#insurances)
 - [Medical | Platforms](#medical_platforms)
@@ -30,6 +30,7 @@
 - [MVV | IsarCardJob](https://www.mvv-muenchen.de/tickets/zeitkarten-abos/isarcardjob/index.html)
 - [MVV | MVV Ticketshop](https://ticketshop.mvv-muenchen.de/index.php/tickets)
 - [MVV | MVV semester ticket](https://www.mvv-muenchen.de/tickets/zeitkarten-abos/mvv-semesterticket/index.html)
+- [MunichMag](https://munichmag.de/)
 
 # Foods :yum:
 
@@ -44,12 +45,13 @@
   - [Menu](http://tastemyburger.com/menu)
   - [Google Map](https://www.google.com/maps/place/Taste+my+Burger/@48.1535743,11.5582648,17z/data=!3m1!4b1!4m5!3m4!1s0x479e75fb25d4ad8f:0xeab13da812b3e1e2!8m2!3d48.1535454!4d11.5607401)
 
-# Hair Salon
+# Hair Salon and Tailoring
 
 - Friseur La-Le | Iranian Barber
   - [Website](https://la-le.de/)
   - [Google Map](https://www.google.com/maps/place/Friseur+La-Le/@48.1392676,11.5316865,17z/data=!3m1!4b1!4m5!3m4!1s0x479e761d64c9abf9:0x8aa89748b1415c2f!8m2!3d48.1393455!4d11.5338932)
 - [Habibi Professional](https://habibi-professional.mytreatwell.de/)
+- [Valikhani | Tailoring and Alterations](https://www.schneiderei-hadern.de/)
 
 # Job Opennings
 
