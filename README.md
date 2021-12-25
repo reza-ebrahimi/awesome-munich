@@ -20,6 +20,7 @@
 - [Citizen service portal | Online citizen services with the new identity card](https://www.buergerserviceportal.de/bayern/classic/)
 - [Munchen.de | The official city portal for Munich](https://www.muenchen.de/)
 - [Munchen.de | Corona Information Portal](https://stadt.muenchen.de/infos/corona-infoportal-muenchen.html)
+- [Munchen.de | Declaration of commitment for short stays of up to 90 days](https://stadt.muenchen.de/service/info/hauptabteilung-ii-buergerangelegenheiten/1063743/)
 - [Kreisverwaltungsreferat (KVR) | District administration department](https://stadt.muenchen.de/rathaus/verwaltung/kreisverwaltungsreferat.html)
 - [Kreisverwaltungsreferat (KVR) | Residence Registration](https://stadt.muenchen.de/infos/residence-registration)
 - [Kreisverwaltungsreferat (KVR) | Fahrzeugzulassungs- und Fahrerlaubnisbehörde | Apply for a transfer of a foreign driver's license](https://stadt.muenchen.de/service/info/hauptabteilung-ii-fahrzeugzulassungs-und-fahrerlaubnisbehoerde/1071898/)
@@ -91,8 +92,12 @@
 - [Dr. med. Walter Baumann | Optometrist](https://www.google.com/maps/place/Dr.+med.+Walter+Baumann/@48.1364522,11.5727705,17z/data=!3m1!4b1!4m5!3m4!1s0x479e758acc522907:0x4546459d06803c53!8m2!3d48.1364522!4d11.5749592?hl=en-DE)
 - [Prof. Dr. med. Andreas Leunig | ENT (Ear nose and throat) specialist](https://www.google.com/maps?q=Prof.+Dr.+med.+Andreas+Leunig,+3+Stock,+Platzl+3,+80331+M%C3%BCnchen&ftid=0x479e758bbfb3bcc5:0xcb99112759ad026f&hl=en-DE&gl=de&entry=gps&lucs=s2se&shorturl=1)
 - [Dr. med. univ. Peter Flora | ENT (Ear nose and throat) specialist](https://www.hno-flora.de/)
+- [Dr. med. Karim Kaviani Nejad | General practitioner](https://goo.gl/maps/5vC2qh4TbYKXer4Z9)
+- [Dr. med. Mahzad Ziai | Dermatologie](https://www.dermatologie-a-z.de/)
 - [MVZ im Helios - Orthopädie München | Orthopedic Surgery Clinic](https://www.mvz-im-helios.de/)
 - [GENERAL MEDICINE JOSEPHSBURG | Family doctor care](https://allgemeinmedizin-josephsburg.de/)
+- [Neurologische Gemeinschaftspraxis](http://www.neuro-burgstrasse.de/)
+- [Munich’s finest Dentistry](https://zahnaerzte-muenchen-zentrum.de/en/1834-2/)
 
 # Events
 
