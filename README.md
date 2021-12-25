@@ -94,10 +94,15 @@
 - [Dr. med. univ. Peter Flora | ENT (Ear nose and throat) specialist](https://www.hno-flora.de/)
 - [Dr. med. Karim Kaviani Nejad | General practitioner](https://goo.gl/maps/5vC2qh4TbYKXer4Z9)
 - [Dr. med. Mahzad Ziai | Dermatologie](https://www.dermatologie-a-z.de/)
+- [DR. MED. RASOUL ABARGHOOEI | DENTISTRY](http://www.ungerer175.de/index.html)
+- [Dr. Alireza Azad | Dentist practitioner](https://praxisdrazad.com/)
+- [Dr. Roberto M. Khatami | Specialist in internal medicine](http://www.praxis-khatami.de/)
 - [MVZ im Helios - Orthopädie München | Orthopedic Surgery Clinic](https://www.mvz-im-helios.de/)
 - [GENERAL MEDICINE JOSEPHSBURG | Family doctor care](https://allgemeinmedizin-josephsburg.de/)
 - [Neurologische Gemeinschaftspraxis](http://www.neuro-burgstrasse.de/)
 - [Munich’s finest Dentistry](https://zahnaerzte-muenchen-zentrum.de/en/1834-2/)
+- [Zahnarztpraxis Astrid Beer | Dental Practice](https://www.za-beer.de/)
+- [Specialist practice for neurology, psychiatry and psychotherapy](https://www.farahmed.de/)
 
 # Events
 
@@ -116,6 +121,9 @@
 - [myroom24 | Monthly Rent | Hotel Apartment](https://myroom24.com/)
 - [Living Hotels | MÜNCHEN](https://www.living-hotels.com/hotels/muenchen/)
 - [Ernstl | Apartments for Students and Trainees](https://www.ernstl-muenchen.de/)
+- [THE FIZZ | Munich Student Accommodation](https://www.the-fizz.com/en/student-accommodation/munich/)
+- [Apartment Complex unity β (Studenten and Azubis)](https://wohnen-in-bayern.com/en/standort/apartmentanlage-unity-%ce%b2/details/objektbeschreibung/)
+- [Apartment Complex unity α (Studenten and Azubis)](https://wohnen-in-bayern.com/en/standort/apartmentanlage-unity-%ce%b1/details/objektbeschreibung/)
 
 # Facebook Groups
 
